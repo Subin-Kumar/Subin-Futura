@@ -1,1 +1,14 @@
-1st change
+git init
+
+git add .             /* for inserting all documents*/
+
+git status
+
+git commit -m "First commit"
+
+git branch -M main 
+
+git >git remote add origin https://github.com/Subin-Kumar/FuturaSubin.git
+
+git push -u origin main
+
