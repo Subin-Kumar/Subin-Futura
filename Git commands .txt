@@ -22,3 +22,15 @@ git commit -m "second change"
 
 git push
 
+
+/*Add .gitignore*/
+
+touch .gitignore         /*in gitbash ->creates the file*/
+
+node_modules/
+client/node_modules/
+server/node_modules/    /*write in .gitignore file*/
+
+
+
+

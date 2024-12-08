@@ -1,0 +1,80 @@
+{
+ 
+"name":"Bench press",
+"image":"https://www.dmarge.com/wp-content/uploads/2022/01/how-to-bench-press-1200x800.jpg",
+"muscles":["pectoralis major","triceps brachii","anterior deltoid","serratus anterior muscle","biceps brachialis","peri-articular shoulder muscles"],
+"type":["Chest"],
+"gtype":["m"],
+"duration":0,
+"set":3,
+"rep":12,
+"intensity":"h"
+
+}
+
+{
+ 
+"name":"Decline Bench press",
+"image":"https://cdn.muscleandstrength.com/sites/default/files/decline-bench-press-1.jpg",
+"muscles":["pectoralis major","triceps brachii","anterior deltoid","serratus anterior muscle","biceps brachialis","peri-articular shoulder muscles"],
+"type":["Chest"],
+"gtype":["m"],
+"duration":0,
+"set":3,
+"rep":12,
+"intensity":"h"
+
+}
+{
+ 
+"name":"Incline Bench press",
+"image":"https://i.ytimg.com/vi/lJ2o89kcnxY/maxresdefault.jpg",
+"muscles":["pectoralis major","triceps brachii","anterior deltoid","serratus anterior muscle","biceps brachialis","peri-articular shoulder muscles"],
+"type":["Chest"],
+"gtype":["m"],
+"duration":0,
+"set":3,
+"rep":12,
+"intensity":"h"
+
+}
+
+{
+ 
+"name":"Dumbbell bench press",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTr8IFTvq6ya5Qpwd-4iOrHxt2sPzAx2m0qNf_ls-a-hmK9pxtR8reZXkh7xDmmVIgdEQ&usqp=CAU",
+"muscles":["pectoralis major","pectoralis minor","triceps brachii","biceps brachii","anterior deltoid","rhomboids","levator scapulae","latissimus dorsi"],
+"type":["Chest"],
+"gtype":["m"],
+"duration":0,
+"set":3,
+"rep":12,
+"intensity":"h"
+
+}
+{
+ 
+"name":"Cable Crossover",
+"image":"https://blog.squatwolf.com/wp-content/uploads/2023/03/stock-photo-bodybuilder-is-working-on-his-chest-with-cable-crossover-in-gym-scream-for-motivation-750696826-800x587.jpg",
+"muscles":["pectoralis major","pectoralis minor","anterior deltoid","rhomboids","levator scapulae","latissimus dorsi"],
+"type":["Chest"],
+"gtype":["m"],
+"duration":0,
+"set":3,
+"rep":12,
+"intensity":"h"
+
+}
+{
+ 
+"name":"Chest fly",
+"image":"https://www.intowellness.in/wp-content/uploads/2019/12/Pec-Fly-Machine.jpg",
+"muscles":["pectoralis major","pectoralis minor","deltoids","rhomboids","triceps","biceps"],
+"type":["Chest"],
+"gtype":["m"],
+"duration":0,
+"set":3,
+"rep":12,
+"intensity":"h"
+
+}
